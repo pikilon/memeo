@@ -12,14 +12,16 @@ A frontend learning project to develop a service to generate memes from internet
   * setting a text with a jump of line
   * store it in local
 * a user can share a meme using a url with all the data
-
+  * have a button to copyToClipboard for quicker sharing
 
 ## Next features
 
 * App installing
 * login and storage on the cloud
 * Share a url with the application to start creating a meme
+* create url shortener
 * share using icons
 * Server side rendering for seo and meta preview
 * iframe version to embed
+* convert video to gif
 
